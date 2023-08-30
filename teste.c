@@ -16,6 +16,7 @@ int main(){
 
     printf("Resultado: %d", res);
 
+    // condicional faz a checagem se o valor ‚ menor, maior ou igual a 10
     if(res > 10){
         printf("\n\nO Resultado ‚ maior que 10");
     }
@@ -26,6 +27,7 @@ int main(){
         printf("\n\nO Resultado ‚ igual a 10");
     }
 
+    // Contando do valor at‚ 0
     for (int i = res; i >= 0; i--)
     {
         printf("\n=> %d ", i);
