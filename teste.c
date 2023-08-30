@@ -16,7 +16,7 @@ int main(){
 
     printf("Resultado: %d", res);
 
-    // condicional faz a checagem se o valor ‚ menor, maior ou igual a 10a
+    // condicional faz a checagem se o valor ‚ menor, maior ou igual a 10
     if(res > 10){
         printf("\n\nO Resultado ‚ maior que 10");
     }
