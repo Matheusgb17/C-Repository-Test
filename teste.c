@@ -11,6 +11,7 @@ int main(){
     printf("Indique um n£mero: ");
     scanf("%d", &num2);
 
+    // somando os valores
     res = num1 + num2;
 
     printf("Resultado: %d", res);
